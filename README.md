@@ -13,6 +13,10 @@
 
 ![image](https://user-images.githubusercontent.com/124149731/236661793-61bceff2-01c6-4f06-8d2a-e75c890f2eb0.png)
 
+## 순서도
+
+![Flow Chart](https://github.com/DonggeunC/Arduino_SmartHome/assets/124149731/c18564f7-0e23-4beb-9e8b-0fbacfb87ba2)
+
 ## 문제점 및 대체안
 
 -타이머와 외부 인터럽트 동시 구현 실패 -> 외부 인터럽트만 사용(코드 작성 중 실수가 발생)
